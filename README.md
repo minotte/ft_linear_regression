@@ -126,7 +126,7 @@ Where:
 - Plotting the regression line
 - Model accuracy evaluation
 
-### Model accuracy evaluatioin
+### Model accuracy evaluation
 
 1. R² (Coefficient of determination) standard
 Measures proportion of variance explained.
@@ -175,13 +175,12 @@ graph:
 - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
 - https://matplotlib.org/stable/gallery/pyplots/pyplot_simple.html
 
+Model accuracy evaluation:
+- https://www.jybaudot.fr/Stats/indicecarts.html
+- https://ithy.com/article/evaluation-metrices-regression-mae-mse-rmse-r2-jqlx1zyp
+
 R square:
 - https://www.datacamp.com/fr/tutorial/r-squared
 - https://www.cashbee.fr/lexique/r-carre-ou-r2
 - https://en.wikipedia.org/wiki/Coefficient_of_determination
 - https://www.reddit.com/r/rstats/comments/igk7r7/how_do_i_check_the_accuracy_of_a_linear/?tl=fr
-
-- https://www.jybaudot.fr/Stats/indicecarts.html
-
-
-- https://ithy.com/article/evaluation-metrices-regression-mae-mse-rmse-r2-jqlx1zyp
